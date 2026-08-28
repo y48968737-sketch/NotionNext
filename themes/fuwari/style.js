@@ -5,14 +5,14 @@ import { themeConsoleStyle } from '@/lib/themeConsoleStyle'
 const Style = () => {
   return <style jsx global>{`
     #theme-fuwari {
-      --fuwari-bg: #f3f4f8;
+      --fuwari-bg: #f5f5f3;
       --fuwari-bg-soft: #f6f4e8;
       --fuwari-surface: #ffffff;
       --fuwari-muted: #72767d;
-      --fuwari-text: #232a37;
+      --fuwari-text: #222222;
       --fuwari-primary: #b8a320;
       --fuwari-primary-soft: rgba(184, 163, 32, 0.14);
-      --fuwari-border: #e9e8df;
+      --fuwari-border: #e5e5e2;
       --fuwari-gradient: linear-gradient(135deg, var(--fuwari-primary) 0%, color-mix(in oklab, var(--fuwari-primary) 70%, #ffffff) 100%);
     }
 
