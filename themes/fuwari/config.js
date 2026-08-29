@@ -18,7 +18,7 @@ const CONFIG = {
   /** 显示「标签」 */
   FUWARI_MENU_TAG: true,
   /** 显示「搜索」（Algolia 或站内搜索由全局配置决定） */
-  FUWARI_MENU_SEARCH: true,
+  FUWARI_MENU_SEARCH: false,
 
   // ---------------------------------------------------------------------------
   // 首页文章列表卡片
